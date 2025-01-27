@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('💸 Currencies converter 💸')
 
 st.write('Hello world!')
