@@ -7,7 +7,7 @@ An app for currency converting, based on a dataset from CSV-file where the salar
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nikkicci-currency-converter.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://currenciesconverter.streamlit.app/)
 
 ## GitHub Codespaces
 
